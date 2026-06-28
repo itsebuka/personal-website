@@ -33,7 +33,7 @@ export default function About() {
               I intend to build autonomous security systems that fuse RF intelligence with computer vision on custom hardware. I intend to also design PCBs and model their enclosures in Fusion 360, write the sensor fusion software, and integrate it into a single platform. My work targets critical infrastructure protection, perimeter defence, and asymmetric warfare applications in under-resourced environments. Studying Electrical and Electronics at Pan-Atlantic University and supporting grid operations as an intern. Nigerian-made. Defence-focused. Prototype-obsessed.
             </p>
             <p className="font-sans text-light-gray/80 leading-relaxed mb-8 text-base">
-              The spectrum is a battlefield most people can&apos;t see. I intend to build systems that see it, control it, and act on it by fusing sensors, signals, and hardware into platforms that work.
+              The spectrum is a battlefield most people cannott see. I intend to build systems that see it, control it, and act on it by fusing sensors, signals, and hardware into platforms that work.
             </p>
 
             {/* Quick specifications grid panel with tech corners */}

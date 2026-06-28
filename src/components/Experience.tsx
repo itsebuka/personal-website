@@ -37,9 +37,9 @@ const professionalLog: Role[] = [
     skillsApplied: ["Grit", "Determination", "Perseverance", "Resilience", "Discipline"],
   },
   {
-    period: "N/A",
-    company: "None yet",
-    title: "None yet",
+    period: "2023 - PRESENT",
+    company: "Pan-Atlantic University",
+    title: "BSc in Electrical and Electronics Engineering",
     bullets: [
       "Coming soon...",
     ],
