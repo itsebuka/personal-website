@@ -226,7 +226,7 @@ export default function Contact() {
 
         {/* 2-Column High-tech cockpit: CLI Terminal on Left, Contact form on Right */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
-          
+
           {/* CLI Terminal Column (5 cols) */}
           <motion.div
             initial={{ opacity: 0, x: -20 }}
@@ -422,9 +422,8 @@ export default function Contact() {
                 <button
                   type="submit"
                   disabled={isSubmitting}
-                  className={`neon-btn-blue w-full font-display font-bold tracking-widest text-xs py-4 px-6 rounded uppercase cursor-none transition-all duration-300 flex items-center justify-center gap-3 ${
-                    isSubmitting ? "opacity-50 pointer-events-none" : ""
-                  }`}
+                  className={`neon-btn-blue w-full font-display font-bold tracking-widest text-xs py-4 px-6 rounded uppercase cursor-none transition-all duration-300 flex items-center justify-center gap-3 ${isSubmitting ? "opacity-50 pointer-events-none" : ""
+                    }`}
                 >
                   {isSubmitting ? (
                     <>

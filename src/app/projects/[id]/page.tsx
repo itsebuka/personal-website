@@ -185,7 +185,7 @@ export default function ProjectDetailPage() {
                 {project.files.map((file) => (
                   <a
                     key={file.filename}
-                    href={`/files/${project.id}/${file.filename}`}
+                    href={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/files/${project.id}/${file.filename}`}
                     download
                     className="flex items-center gap-4 p-4 bg-black border border-white/5 rounded-lg hover:border-sky-blue/30 hover:bg-sky-blue/3 transition-all duration-300 group cursor-none"
                   >
