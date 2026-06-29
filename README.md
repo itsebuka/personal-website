@@ -1,6 +1,5 @@
-# X-MATRIX // Cybernetic Portfolio & Personal Hub
-
-NEXUS-OS is a premium, ultra-sleek, futuristic developer portfolio website built using Next.js (App Router), Tailwind CSS v4, TypeScript, and Framer Motion animations. The site utilizes a matte black theme accentuated by neon green (`#39ff14`) and sky blue (`#87CEEB`) glows, featuring rich animations and high-tech UI presets.
+# **MY PERSONAL WEBSITE**
+This is my personal website built using Next.js (App Router), Tailwind CSS v4, TypeScript, and Framer Motion animations. The site utilizes a matte black theme accentuated by neon green (`#39ff14`) and sky blue (`#87CEEB`) glows, featuring rich animations and high-tech UI presets.
 
 ---
 
